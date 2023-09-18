@@ -1,5 +1,5 @@
 # XFCE4 dotfiles
-Just copy hidden and Wallpaper folders in $HOME folder.
-Theme from themes/ and Icons from icons/ also copy to /usr/share/themes and /usr/share/icons if u want see themes in root.
+Just copy all in $HOME folder.
+Also u can copy theme and icons to /usr/share/themes and /usr/share/icons for root.
 
 ![Screenshot](/Screen.png)
